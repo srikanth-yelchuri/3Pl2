@@ -1,4 +1,6 @@
-{ruleid: '11234', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSP,INSD,DIM,XPSN,VOSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
+{
+  "rules": [
+  {ruleid: '11234', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSP,INSD,DIM,XPSN,VOSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
   {ruleid: '11235', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSD,DIM,XPSN,VOSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
   {ruleid: '11236', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,DIM,XPSN,VOSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
   {ruleid: '11237', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSP,INSD,DIM,XPSN,VOSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
@@ -13,3 +15,8 @@
   {ruleid: '11246', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSP,INSD,DIM,XPSN,VOSD,VOSN,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
   {ruleid: '11247', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSP,INSD,VOSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'},
   {ruleid: '11248', odm: 'COMPAL', facility: 'CET', basetype: '(SRV,PRF,LAT,INSP,INSD,VOSN,OEM,WRK)', weight: '*', threeplreq: 'N', routinconfig: '', isfmpro: 'N', affordertype: '*', isfedorder: 'N', shipcode: 'IY', shipmode: 'NOT(S)'}
+  ],
+  "profile": {
+    "name": "grp"
+  }
+}
