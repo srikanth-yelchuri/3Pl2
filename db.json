@@ -17,6 +17,6 @@
   {"ruleid": "11248", "odm": "COMPAL", "facility": "CET", "basetype": "(SRV,PRF,LAT,INSP,INSD,VOSN,OEM,WRK)", "weight": "*", "threeplreq": "N", "routinconfig": "", "isfmpro": "N", "affordertype": "*", "isfedorder": "N", "shipcode": "IY", "shipmode": "NOT(S)"}
   ],
   "profile": {
-    "name": "typicode"
+    "name": "grp"
   }
 }
