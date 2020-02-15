@@ -38,5 +38,31 @@
   ]} ],
   "profile": {
     "name": "grp"
-  }
+  },
+  "parameters": [
+{ "id": "ruleid",
+"name": "Rule Id" },
+{ "id": "odm",
+"name": "ODM" },
+{ "id": "facility",
+"name": "Facility" },
+{ "id": "basetype",
+"name": "Base Type" },
+{ "id": "weight",
+"name": "Weight" },
+{ "id": "threeplreq",
+"name": "3PL Req" },
+{ "id": "routinconfig",
+"name": "Routin Config" },
+{ "id": "isfmpro",
+"name": "Is FMPRO" },
+{ "id": "affordertype",
+"name": "Afforder Type" },
+{ "id": "isfedorder",
+"name": "Is FEDORDER" },
+{ "id": "shipcode",
+"name": "Ship Code" },
+{ "id": "shipmode",
+"name": "Ship Mode" }
+]
 }
