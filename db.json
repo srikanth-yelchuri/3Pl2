@@ -7,7 +7,7 @@
    { "data": [28, 48, 40, 19, 86, 27, 90], "label": "3PL" }
   ], 
  "3plNack":[
-    { data: [85, 72, 30, 75, 100, 75], label: 'IBASN NACK' },
-    { data: [28, 48, 40, 19, 86, 27], label: 'WO NACK' }
+    { "data": [85, 72, 30, 75, 100, 75], "label": "IBASN NACK" },
+    { "data": [28, 48, 40, 19, 86, 27], "label": "WO NACK" }
   ]
 }
