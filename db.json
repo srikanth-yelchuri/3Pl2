@@ -1,5 +1,5 @@
 {
  "pieChartLabels": ["WOSent", "WOAck", "WORelease", "WOReleaseAck", "WOStuck"], "pieChartData":[40, 20, 20 , 10,10], 
 "barChartLabels":["IBASN Sent", "IBASN Ack", "IBASN RCPT", "IBASN RCPT Complete", "IBASN RCPT ACK"],
-"barChartData":[{ "data": [65, 59, 80, 81, 56, 55, 40], "label": "Factory" }, "data": [28, 48, 40, 19, 86, 27, 90], "label": "3PL" }]
+"barChartData":[{ "data": [65, 59, 80, 81, 56, 55, 40], "label": "Factory" }, {"data": [28, 48, 40, 19, 86, 27, 90], "label": "3PL" }]
 }
