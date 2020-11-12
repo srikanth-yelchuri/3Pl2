@@ -9,5 +9,15 @@
  "3plNack":[
     { "data": [85, 72, 30, 75, 100, 75], "label": "IBASN NACK" },
     { "data": [28, 48, 40, 19, 86, 27], "label": "WO NACK" }
+  ],
+ "3plBoxing":[
+  { "data": [65, 59, 80, 81, 56, 55, 40], "label": "Box pick", "stack": "a" },
+  { "data": [28, 48, 40, 19, 86, 27, 90], "label": "Part Pick", "stack": "a" }
+ ],
+ "obasn": [
+  {"data" :[55, 25, 20, 5, 10]}
+  ],
+ "shipment" :[
+  {"data" : [100, 500, 200, 40, 120]}
   ]
 }
