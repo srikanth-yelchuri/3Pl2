@@ -1,20 +1,3 @@
 {
- "wo":[
-  {"data":[41111111, 22, 20 , 10,10]
- }],
- "IBASN":[
-   { "data": [65, 59, 80, 81, 56, 55, 40], "label": "Factory" },
-   { "data": [28, 48, 40, 19, 86, 27, 90], "label": "3PL" }
-  ], 
- "3plNack":[
-    { "data": [15, 20, 30, 5, 10, 75], "label": "IBASN NACK" },
-    { "data": [28, 48, 40, 19, 86, 27], "label": "WO NACK" }
-  ],
- "3plBoxing":[
-  { "data": [65, 59, 80, 81, 56, 55, 40], "label": "Box pick", "stack": "a" },
-  { "data": [28, 48, 40, 19, 86, 27, 90], "label": "Part Pick", "stack": "a" }
- ],
- "obasn": [
-  {"data" :[55, 25, 20, 5, 10]}
-  ]
+ "Name":"SRIKANTH"
 }
